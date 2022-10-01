@@ -1,3 +1,4 @@
+/* O uso do * aqui é para que possamos dar um RESET em algumas situações que já vem setadas pelo prórpio browser */
 * {
   margin: 0;
   padding: 0;
@@ -21,4 +22,11 @@ html {
 button {
   background-color: transparent;
   cursor: pointer;
+}
+
+.container {
+  width: 100%;
+  max-width: 1246px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
