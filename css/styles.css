@@ -40,3 +40,42 @@ header nav .btn-primary {
 }
 
 /********** Style Section Hero **********/
+
+.s-hero {
+    padding: 72px 0px;
+}
+
+.s-hero .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.s-hero .text {
+    width: 100%;
+    max-width: 632px;
+}
+
+.s-hero .text h1 {
+    margin-bottom: 2rem;
+}
+
+.s-hero .text p {
+    width: 488px;
+    margin-bottom: 5.6rem;
+}
+
+.s-hero .text .btn-primary {
+    padding: 1.7rem 4.1rem;
+}
+
+.s-hero .image-hero {
+    width: 100%;
+    max-width: 48.1rem;
+    height: 49.6rem;
+    background-color: var(--gray-colors-800);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
