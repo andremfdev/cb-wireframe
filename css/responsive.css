@@ -30,13 +30,25 @@
         text-align: center;
     }
 
+    .s-hero .text p {
+        margin-bottom: 3rem;
+    }
+
 }
 
-@media(max-width: 768px) {}
+@media(max-width: 768px) {
+    .s-hero .text p {
+        margin-bottom: 3rem;
+    }
+}
 
 @media(max-width: 600px) {}
 
 @media(max-width: 480px) {
+    html {
+        font-size: 55%;
+    }
+
     header .logo {
         max-width: 150px;
     }
@@ -47,5 +59,21 @@
 
     .s-hero {
         padding: 40px 0px;
+    }
+
+    h1 {
+        font-size: 4.2rem;
+    }
+
+    .s-hero .image-hero {
+        height: 30rem;
+    }
+
+    .s-hero .image-hero img {
+        max-width: 100px;
+    }
+
+    .s-hero .text p {
+        margin-bottom: 3rem;
     }
 }
