@@ -50,7 +50,7 @@
     }
 
     header .logo {
-        max-width: 150px;
+        max-width: 140px;
     }
 
     header .menu-mobile {
@@ -71,6 +71,10 @@
 
     .s-hero .image-hero img {
         max-width: 100px;
+    }
+
+    .s-hero .text {
+        margin-bottom: 3rem;
     }
 
     .s-hero .text p {
