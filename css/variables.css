@@ -1,7 +1,7 @@
 :root {
   --brand-colors-pink: #F67ACB;
   --gray-colors-50: #E6EBF2;
-  --white-colors-text: rgba(255, 255, 255, 0.4);
+  --white-colors-text: hsla(0, 0%, 100%, 0.5);
   --gray-colors-100: #050110;
   --gray-colors-200: hsla(220, 5%, 12%, 0.5);
   --gray-colors-300: #393C40;
