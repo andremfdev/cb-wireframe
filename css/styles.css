@@ -150,3 +150,41 @@ header nav .btn-primary {
 .s-card-featured .all-cards .card.white p {
     color: var(--gray-colors-300);
 }
+
+
+/****** Style Section Multiple Cards ******/
+
+.s-card-featured .second-area {
+    padding: 10.4rem 12.0rem 0px 0px;
+}
+
+.s-card-featured .second-area .top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5.6rem;
+}
+
+.s-card-featured .second-area .top .btn-primary {
+    padding: 2rem 4rem;
+}
+
+.s-card-featured .second-area .top .title p {
+    margin-top: 0.8rem;
+    color: var(--white-colors-text);
+}
+
+.s-card-featured .second-area .all-imgs {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 32px;
+}
+
+.s-card-featured .second-area .all-imgs .image {
+    background-color: var(--gray-colors-200);
+    padding: 3.6rem 5.1rem;
+    display: flex;
+    align-items: center;
+}
