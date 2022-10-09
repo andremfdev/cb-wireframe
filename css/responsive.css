@@ -51,7 +51,7 @@
         width: 100%;
         max-width: 100%;
         height: auto;
-        padding: 30px 0px;
+        padding: 3rem;
     }
 
     .s-card-featured .all-cards .card .info {
@@ -106,5 +106,17 @@
 
     .s-hero .text p {
         margin-bottom: 3rem;
+    }
+
+    .s-card-featured {
+        padding: 4rem 0px;
+    }
+
+    .s-card-featured .main-area {
+        padding: 4rem 0px;
+    }
+
+    .s-card-featured .title p {
+        max-width: 80%;
     }
 }
