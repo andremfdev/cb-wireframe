@@ -80,7 +80,7 @@ header nav .btn-primary {
     justify-content: center;
 }
 
-/********** Style Section Card Featured **********/
+/****** STYLE SECTION CARD FEATURED ******/
 
 .s-card-featured {
     background-color: var(--gray-colors-100);
@@ -152,10 +152,9 @@ header nav .btn-primary {
 }
 
 
-/****** Style Section Multiple Cards ******/
-
+/****** STYLE SECTION MULTIPLE CARDS ******/
 .s-card-featured .second-area {
-    padding: 10.4rem 12.0rem 0px 0px;
+    margin-top: 10.4rem;
 }
 
 .s-card-featured .second-area .top {
@@ -176,15 +175,15 @@ header nav .btn-primary {
 
 .s-card-featured .second-area .all-imgs {
     display: flex;
-    align-items: center;
     flex-wrap: wrap;
-    width: 100%;
     gap: 32px;
 }
 
 .s-card-featured .second-area .all-imgs .image {
     background-color: var(--gray-colors-200);
-    padding: 3.6rem 5.1rem;
+    width: 176px;
+    height: 112px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
