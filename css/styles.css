@@ -212,3 +212,63 @@ header nav .btn-primary {
 .s-newsletter .btn-primary {
     padding: 1.75rem 4.1rem;
 }
+
+/****** STYLE FOOTER ******/
+
+footer {
+    background-color: var(--gray-colors-100);
+    padding-top: 8.8rem;
+    padding-bottom: 3.9rem;
+}
+
+footer main {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    border-bottom: 1px solid hsla(0, 0%, 100%, 0.15);
+    padding-bottom: 7.2rem;
+}
+
+footer main .area-left {
+    max-width: 281px;
+}
+
+footer main .area-left p {
+    margin-top: 35px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: var(--white-colors-text);
+}
+
+footer main nav {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 777px;
+}
+
+
+footer main nav .item ul {
+    gap: 32px;
+    display: flex;
+    flex-direction: column;
+}
+
+footer main nav .item h6 {
+    font-family: 'Sora', sans-serif;
+    font-weight: 600;
+    line-height: 125%;
+    letter-spacing: -1px;
+    color: var(--white);
+    margin-bottom: 24px;
+}
+
+
+footer main nav .item ul li a {
+    font-family: 'Sora', sans-serif;
+    font-size: 14px;
+    line-height: 105%;
+    color: var(--white-colors-text);
+}
