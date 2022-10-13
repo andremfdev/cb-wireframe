@@ -208,3 +208,7 @@ header nav .btn-primary {
     margin-bottom: 4rem;
     color: var(--white-colors-text);
 }
+
+.s-newsletter .btn-primary {
+    padding: 1.75rem 4.1rem;
+}
