@@ -5,6 +5,9 @@ header {
     height: 8.8rem;
     background-color: var(--gray-colors-800);
     display: flex;
+    position: fixed;
+    top: 0;
+    z-index: 2022;
 }
 
 header .container {
@@ -42,7 +45,8 @@ header nav .btn-primary {
 /********** Style Section Hero **********/
 
 .s-hero {
-    padding: 72px 0px;
+    margin-top: 8.8rem;
+    padding: 7.2rem 0px;
 }
 
 .s-hero .container {
