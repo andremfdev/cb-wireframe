@@ -22,6 +22,10 @@
     footer main nav {
         max-width: 63%;
     }
+
+    header nav ul li {
+        margin-left: 2.2rem;
+    }
 }
 
 @media(max-width: 991px) {
@@ -91,7 +95,6 @@
 
     footer main .area-left p {
         text-align: center;
-        padding-top: 2rem;
     }
 
     footer main .area-left img {
@@ -187,6 +190,7 @@
 
     .s-card-featured {
         padding-top: 4rem;
+        padding-bottom: 4rem;
     }
 
     .s-card-featured .main-area {
@@ -206,7 +210,7 @@
     }
 
     .s-card-featured .second-area .all-imgs {
-        gap: 0.5rem 2%;
+        gap: 1rem 2%;
     }
 
     .s-card-featured .second-area .all-imgs .image {
@@ -216,5 +220,7 @@
     .s-newsletter {
         padding: 4rem 0px;
     }
+
+    
 
 }

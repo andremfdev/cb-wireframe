@@ -257,15 +257,16 @@ footer main nav .item ul {
     gap: 32px;
     display: flex;
     flex-direction: column;
+    margin-top: 24px;
+
 }
 
-footer main nav .item h6 {
+footer main nav .item .list {
     font-family: 'Sora', sans-serif;
     font-weight: 600;
     line-height: 125%;
     letter-spacing: -1px;
     color: var(--white);
-    margin-bottom: 24px;
 }
 
 footer main nav .item ul li a {
@@ -273,6 +274,11 @@ footer main nav .item ul li a {
     font-size: 14px;
     line-height: 105%;
     color: var(--white-colors-text);
+    transition: color .3s;
+}
+
+footer main nav .item ul li a:hover {
+    color: var(--white);
 }
 
 footer main nav .item:last-child ul li a {
