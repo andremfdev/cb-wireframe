@@ -41,7 +41,7 @@
 
 <h3 id="about"><strong>📝 About</strong></h3>
 
-<hr>
+
 <p>
 Primeiro projeto realizado no curso CodeBoost e também meu primeiro contato aplicando conhecimentos em HTML5 e CSS3. Neste projeto, colocaremos em prática a importância de ter uma estrutura HTML bem feita para que possamos criar qualquer tipo de layout, seja ele o mais simples ou o mais complexo. Aproveito este projeto para aplicar o conhecimento como SASS.</p>
 
@@ -49,7 +49,7 @@ Primeiro projeto realizado no curso CodeBoost e também meu primeiro contato apl
 
 <h3 id="layout"><strong>📐 Layout</strong></h3>
 
-<hr>
+
 Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design). For reasons of law I cannot grant access to the project. The original model of the project follows in PNG.
 <br>
 <br>
@@ -71,7 +71,7 @@ Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design
 
 <h3 id="deploy"><strong>🌐 Deploy</strong></h3>
 
-<hr>
+
 
 [Github Pages](https://andremksdev.github.io/codeboost-project-wireframe/)
 
@@ -79,7 +79,7 @@ Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design
 
 <h3 id="audit"><strong>🔍 Audit metrics - Lighthouse</strong></h3>
 
-<hr>
+
 
 <h3><strong>Audit web apps with Lighthouse</strong></h3>
 <p>Lighthouse is an open-source automated tool that improves the quality of web apps. It can run as a Chrome extension or from the command line. Tell Lighthouse a URL you want to audit. It will run a series of tests on the page and report on the page's performance. In this report, you can use the tests that failed as indicators of what can be done to improve the application.
@@ -98,7 +98,7 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 
 <h3 id="challenges"><strong>🎯 Challenges</strong></h3>
 
-<hr>
+
 
 - [x] Desktop version
 - [x] Mobile version
@@ -111,7 +111,7 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 
 <h3 id="technologies"><strong>⚙️ Technologies</strong></h3>
 
-<hr>
+
 The technologies used for this project were:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -121,7 +121,7 @@ The technologies used for this project were:
 
 <h3 id="autor"><strong>👨‍💻 Autor</strong></h3>
 
-<hr>
+
 
 <img alt="andremksdev" title="andremksdev" src="https://avatars.githubusercontent.com/u/82080573?v=4" height="100" width="100" />
 
