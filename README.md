@@ -1,13 +1,17 @@
 
-<img src="./assets-readme/capa-readme-wireframe.png" alt="Logo codeboost"><br>
+<div>
+<img src="./assets-readme/capa-readme-wireframe.png" alt="Logo do projeto codeboost">
+</div>
+<br>
 
-<hr>
+
 
 <div>
 
 <h1 align="center">Projeto Wireframe </h1>
 
 </div>
+
 
 <p align="center">
  <a href="#about">About</a> •
@@ -19,11 +23,12 @@
  <a href="#autor">Autor</a>
 </p>
 
+
 <br>
 <h3 align="center"><strong>Desktop model</strong></h3>
 <p align="center">
   <img 
-    src="./readme-assets/readme-desk.gif"
+    src="./assets-readme/wireframe-desk.gif"
     width="700px" 
     style="display: inline; border-radius: 15px; border: "
   />
@@ -32,7 +37,7 @@
 
 <p align="center">
   <img 
-    src="./readme-assets/readme-mobile.gif"
+    src="./assets-readme/wireframe-mobile.gif"
      height="550px"
     style="display: inline; border-radius: 15px; border: "
   />
@@ -40,6 +45,7 @@
 <br>
 
 <h3 id="about"><strong>📝 About</strong></h3>
+<hr>
 
 
 <p>
@@ -48,7 +54,7 @@ Primeiro projeto realizado no curso CodeBoost e também meu primeiro contato apl
 <br>
 
 <h3 id="layout"><strong>📐 Layout</strong></h3>
-
+<hr>
 
 Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design). For reasons of law I cannot grant access to the project. The original model of the project follows in PNG.
 <br>
@@ -56,29 +62,25 @@ Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design
 <br>
 
 <h3 align="center"><strong>Desktop model</strong></h3>
+<br>
 <p align="center">
   <img 
-    src="./readme-assets/project-figma-desk1.png"
-    width="700px" 
-    style="display: inline; border-radius: 15px; border: "
-  />
-  <p align="center">
-  <img 
-    src="./readme-assets/project-figma-desk2.png"
+    src="./assets-readme/design-wireframe.jpg"
     width="700px" 
     style="display: inline; border-radius: 15px; border: "
   />
 
+<br>
 <h3 id="deploy"><strong>🌐 Deploy</strong></h3>
+<hr>
 
 
-
-[Github Pages](https://andremksdev.github.io/codeboost-project-wireframe/)
+[Wireframe-andremfdev ](https://cb-wireframe-andremfdev.netlify.app/)
 
 <br>
 
 <h3 id="audit"><strong>🔍 Audit metrics - Lighthouse</strong></h3>
-
+<hr>
 
 
 <h3><strong>Audit web apps with Lighthouse</strong></h3>
@@ -89,7 +91,7 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 
 <p align="center">
   <img 
-    src="./readme-assets/audit-metrics-Lighthouse.gif"
+    src="./assets-readme/metrics-lighthouse.gif"
     width="1000px" 
     style="display: inline; border-radius: 15px; border: "
   />
@@ -97,7 +99,7 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 <br>
 
 <h3 id="challenges"><strong>🎯 Challenges</strong></h3>
-
+<hr>
 
 
 - [x] Desktop version
@@ -110,7 +112,7 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 <br>
 
 <h3 id="technologies"><strong>⚙️ Technologies</strong></h3>
-
+<hr>
 
 The technologies used for this project were:
 
@@ -120,13 +122,13 @@ The technologies used for this project were:
 <br>
 
 <h3 id="autor"><strong>👨‍💻 Autor</strong></h3>
+<hr>
 
 
+<img alt="andremfdev" title="andremfdev" src="https://avatars.githubusercontent.com/u/82080573?v=4" height="100" width="100" border="1"/>
 
-<img alt="andremksdev" title="andremksdev" src="https://avatars.githubusercontent.com/u/82080573?v=4" height="100" width="100" />
+Made by andremfdev 👋
 
-Made by andremksdev 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-andremksdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremksdev/)](https://www.linkedin.com/in/andremksdev/)
-[![Twitter Badge](https://img.shields.io/badge/andremksdev-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/andremksdev/)](https://www.twitter.com/andremksdev/)
-[![Twitter Badge](https://img.shields.io/badge/andremks.dev-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/andremks.dev/)](https://www.instagram.com/andremks.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-andremfdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremfdev/)](https://www.linkedin.com/in/andremfdev/)
+[![Twitter Badge](https://img.shields.io/badge/andremfdev-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/andremfdev/)](https://www.twitter.com/andremfdev/)
+[![Twitter Badge](https://img.shields.io/badge/andremfdev-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/andremfdev/)](https://www.instagram.com/andremfdev/)
