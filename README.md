@@ -30,9 +30,9 @@
 
 
 <p>
-Primeiro projeto realizado no curso CodeBoost e também meu primeiro contato com desenvovimento em programção, aplicando conhecimentos em HTML5 e CSS3. Neste projeto, pude colocar em prática a importância de ter uma estrutura HTML bem feita para que possamos criar qualquer tipo de layout, seja ele o mais simples ou o mais complexo.
+Primeiro projeto realizado no curso CodeBoost e também meu primeiro contato com desenvovimento em programação, aplicando conhecimentos em HTML5 e CSS3. Neste projeto, pude colocar em prática a importância de ter uma estrutura HTML bem feita para que possamos criar qualquer tipo de layout, seja ele do mais simples ao mais complexo.
 
-Um dos pontos de importância neste projeto foi a construção da responsividade, deixando assim a página flúida entre os diversos tipos de tela, gerando uma maior acessibilidade.
+Um dos pontos de importância neste projeto foi a construção da responsividade, deixando assim a página descomplicada entre os diversos tipos de tela, gerando uma maior acessibilidade.
 </p>
 
 <br>
