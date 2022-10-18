@@ -30,7 +30,7 @@
   <img 
     src="./assets-readme/wireframe-desk.gif"
     width="700px" 
-    style="display: inline; border-radius: 15px; border: "
+    style="display: inline; border-radius: 15px;"
   />
   <h3 align="center"><strong>Mobile model</strong></h3>
 </p>
@@ -67,7 +67,7 @@ Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design
   <img 
     src="./assets-readme/design-wireframe.jpg"
     width="700px" 
-    style="display: inline; border-radius: 15px; border: "
+    style="display: inline; border-radius: 15px;"
   />
 
 <br>
