@@ -22,7 +22,20 @@
  <a href="#stack">Stack</a> •
  <a href="#autor">Autor</a>
 </p>
+<br>
+<br>
 
+<h3 id="about"><strong>📝 About</strong></h3>
+<hr>
+
+
+<p>
+Primeiro projeto realizado no curso CodeBoost e também meu primeiro contato com desenvovimento em programção, aplicando conhecimentos em HTML5 e CSS3. Neste projeto, pude colocar em prática a importância de ter uma estrutura HTML bem feita para que possamos criar qualquer tipo de layout, seja ele o mais simples ou o mais complexo.
+
+Um dos pontos de importância neste projeto foi a construção da responsividade, deixando assim a página flúida entre os diversos tipos de tela, gerando uma maior acessibilidade.
+</p>
+
+<br>
 
 <br>
 <h3 align="center"><strong>Desktop model</strong></h3>
@@ -44,17 +57,7 @@
 </p>
 <br>
 
-<h3 id="about"><strong>📝 About</strong></h3>
-<hr>
 
-
-<p>
-Primeiro projeto realizado no curso CodeBoost e também meu primeiro contato com desenvovimento em programção, aplicando conhecimentos em HTML5 e CSS3. Neste projeto, pude colocar em prática a importância de ter uma estrutura HTML bem feita para que possamos criar qualquer tipo de layout, seja ele o mais simples ou o mais complexo.
-
-Um dos pontos de importância neste projeto foi a construção da responsividade, deixando assim a página flúida entre os diversos tipos de tela, gerando uma maior acessibilidade.
-</p>
-
-<br>
 
 <h3 id="layout"><strong>📐 Layout</strong></h3>
 <hr>
