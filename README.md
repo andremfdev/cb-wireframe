@@ -19,7 +19,7 @@
  <a href="#deploy">Deploy</a> •
  <a href="#audit">Audit Metrics</a> •
  <a href="#challenges">Challenges</a> •
- <a href="#technologies">Technologies</a> •
+ <a href="#stack">Stack</a> •
  <a href="#autor">Autor</a>
 </p>
 
@@ -49,14 +49,17 @@
 
 
 <p>
-Primeiro projeto realizado no curso CodeBoost e também meu primeiro contato aplicando conhecimentos em HTML5 e CSS3. Neste projeto, colocaremos em prática a importância de ter uma estrutura HTML bem feita para que possamos criar qualquer tipo de layout, seja ele o mais simples ou o mais complexo. Aproveito este projeto para aplicar o conhecimento como SASS.</p>
+Primeiro projeto realizado no curso CodeBoost e também meu primeiro contato com desenvovimento em programção, aplicando conhecimentos em HTML5 e CSS3. Neste projeto, pude colocar em prática a importância de ter uma estrutura HTML bem feita para que possamos criar qualquer tipo de layout, seja ele o mais simples ou o mais complexo.
+
+Um dos pontos de importância neste projeto foi a construção da responsividade, deixando assim a página flúida entre os diversos tipos de tela, gerando uma maior acessibilidade.
+</p>
 
 <br>
 
 <h3 id="layout"><strong>📐 Layout</strong></h3>
 <hr>
 
-Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design). For reasons of law I cannot grant access to the project. The original model of the project follows in PNG.
+Layout disponível no curso CodeBoost do Mentor Will Moreira (Insany Design). Por razões de lei, não posso conceder acesso ao projeto original. Segue em PNG a base do design.
 <br>
 <br>
 <br>
@@ -74,8 +77,7 @@ Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design
 <h3 id="deploy"><strong>🌐 Deploy</strong></h3>
 <hr>
 
-
-[Wireframe-andremfdev ](https://cb-wireframe-andremfdev.netlify.app/)
+Segue o resultado do projeto desenvolvido • [Wireframe-andremfdev ](https://cb-wireframe-andremfdev.netlify.app/)
 
 <br>
 
@@ -83,10 +85,12 @@ Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design
 <hr>
 
 
-<h3><strong>Audit web apps with Lighthouse</strong></h3>
-<p>Lighthouse is an open-source automated tool that improves the quality of web apps. It can run as a Chrome extension or from the command line. Tell Lighthouse a URL you want to audit. It will run a series of tests on the page and report on the page's performance. In this report, you can use the tests that failed as indicators of what can be done to improve the application.
 
-Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features such as Add to Home screen and offline mode support. However, the overall goal of the project is to provide a comprehensive audit of all aspects of a web app's quality. </p>
+<p>O Lighthouse é uma ferramenta automatizada de código aberto que melhora a qualidade dos aplicativos da web. Ele pode ser executado como uma extensão do Chrome ou a partir da linha de comando. Informe ao Lighthouse um URL que você deseja auditar. Ele executará uma série de testes na página e relatará o desempenho da página. Neste relatório, você pode usar os testes que falharam como indicadores do que pode ser feito para melhorar o aplicativo.
+
+Observação: no momento, o Lighthouse se concentra principalmente nos recursos do Progressive Web Apps, como Adicionar à tela inicial e suporte ao modo offline. No entanto, o objetivo geral do projeto é fornecer uma auditoria abrangente de todos os aspectos da qualidade de um aplicativo da web.
+
+Aplicando os conhecimentos, e buscando aperfeiçoar cada vez mais pude obter um excelente resultado para a construção desse pequeno projeto (Wireframe). Como podem ver o resultado bateu uma performance de 100 </p>
 <br>
 
 <p align="center">
@@ -111,10 +115,10 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 
 <br>
 
-<h3 id="technologies"><strong>⚙️ Technologies</strong></h3>
+<h3 id="stack"><strong>⚙️ Stack</strong></h3>
 <hr>
 
-The technologies used for this project were:
+As tecnologias utilizadas para este projeto foram:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
