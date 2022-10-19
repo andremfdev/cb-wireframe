@@ -26,7 +26,6 @@
 <br>
 
 <h3 id="about"><strong>📝 About</strong></h3>
-<hr>
 
 
 <p>
@@ -60,7 +59,6 @@ Um dos pontos de importância neste projeto foi a construção da responsividade
 
 
 <h3 id="layout"><strong>📐 Layout</strong></h3>
-<hr>
 
 Layout disponível no curso CodeBoost do Mentor Will Moreira (Insany Design). Por razões de lei, não posso conceder acesso ao projeto original. Segue em PNG a base do design.
 <br>
@@ -78,14 +76,12 @@ Layout disponível no curso CodeBoost do Mentor Will Moreira (Insany Design). Po
 
 <br>
 <h3 id="deploy"><strong>🌐 Deploy</strong></h3>
-<hr>
 
 Segue o resultado do projeto desenvolvido • [Wireframe-andremfdev ](https://cb-wireframe-andremfdev.netlify.app/)
 
 <br>
 
 <h3 id="audit"><strong>🔍 Audit metrics - Lighthouse</strong></h3>
-<hr>
 
 
 
@@ -106,7 +102,6 @@ Aplicando os conhecimentos, e buscando aperfeiçoar cada vez mais pude obter um 
 <br>
 
 <h3 id="challenges"><strong>🎯 Challenges</strong></h3>
-<hr>
 
 
 - [x] Desktop version
@@ -119,7 +114,6 @@ Aplicando os conhecimentos, e buscando aperfeiçoar cada vez mais pude obter um 
 <br>
 
 <h3 id="stack"><strong>⚙️ Stack</strong></h3>
-<hr>
 
 As tecnologias utilizadas para este projeto foram:
 
@@ -127,9 +121,9 @@ As tecnologias utilizadas para este projeto foram:
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 <br>
+<hr>
 
 <h3 id="autor"><strong>👨‍💻 Autor</strong></h3>
-<hr>
 
 
 <img alt="andremfdev" title="andremfdev" src="https://avatars.githubusercontent.com/u/82080573?v=4" height="100" width="100" border="1"/>
