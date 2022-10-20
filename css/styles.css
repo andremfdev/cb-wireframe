@@ -125,7 +125,13 @@ header nav .btn-primary {
     max-width: 38.4rem;
     height: 38.2rem;
     background-color: var(--gray-colors-200);
+    transition: transform .4s;
 }
+
+.s-card-featured .all-cards .card:hover {
+    transform: scale(1.1);
+}
+
 
 .s-card-featured .all-cards .card .info {
     text-align: center;
@@ -190,6 +196,11 @@ header nav .btn-primary {
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: transform .4s;
+}
+
+.s-card-featured .second-area .all-imgs .image:hover {
+    transform: scale(1.1);
 }
 
 .s-newsletter {
